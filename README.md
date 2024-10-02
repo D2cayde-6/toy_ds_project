@@ -1,2 +1,2 @@
 # toy_ds_project
-Data Science Stuff
+project creation date 10/2/2024
